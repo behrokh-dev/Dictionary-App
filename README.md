@@ -10,9 +10,11 @@ The application uses an external dictionary API to search for English words and 
 
 ---
 
-
 ## 📸 Preview
 
+<img width="1918" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4e937f7d-ff3e-4433-99f7-55d3bdfb7130" />
+
+<img width="1918" height="1080" alt="Image" src="https://github.com/user-attachments/assets/12e9b48a-a311-4e52-894b-3919e4076250" />
 
 ---
 
