@@ -6,7 +6,7 @@ The application uses an external dictionary API to search for English words and 
 
 ## 🔗 Live Demo
 
-🔗 [View the Live Demo](https://behrokh-dev.github.io/Dictionary-App/)
+🔗 Live Demo:  https://behrokh-dev.github.io/Dictionary-App/
 
 ---
 
